@@ -1,1 +1,4 @@
-test file
+first text (11-may-2022 // 1401/02/21)
+I want start a reaserch about cryptocurrency
+in the first stage I collect historical data of bitcoin (1-min) and share it here for anyone to use 
+R  use for this study 
